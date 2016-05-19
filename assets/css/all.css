@@ -8,8 +8,8 @@ body {
   margin: 0; }
   
 .radio{
-  padding-right: auto;
-  padding-left: auto;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
